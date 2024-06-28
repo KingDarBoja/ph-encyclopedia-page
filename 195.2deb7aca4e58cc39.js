@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkph_encyclopedia=self.webpackChunkph_encyclopedia||[]).push([[195],{6195:(_,p,d)=>{d.d(p,{Fe:()=>f});var h=d(3953),l=d(6600);let f=(()=>{class r{static#t=this.\u0275fac=function(i){return new(i||r)};static#e=this.\u0275mod=h.$C({type:r});static#i=this.\u0275inj=h.G2t({imports:[l.Np,l.yE,l.Np,l.yE]})}return r})()}}]);
